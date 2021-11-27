@@ -1,0 +1,64 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+body {
+  background: radial-gradient(circle, rgb(117, 83, 144), rgb(32, 23, 39));
+}
+
+img {
+  position: absolute;
+  height: 100px;
+  color: red;
+}
+
+.Login-container {
+  max-width: 700px;
+  margin: 200px auto;
+  padding: 0px 20px;
+  box-sizing: border-box;
+}
+
+.Login-wrapper {
+  background-color: rgb(220, 214, 226);
+  border-radius: 5px;
+  box-shadow: 0px 2px 8px 1px rgb(0 0 0 / 5%);
+}
+
+.Login-header {
+  text-indent: 25px;
+  height: 85px;
+  background: linear-gradient(rgb(117, 83, 144), rgb(95, 69, 117));
+  border-radius: 5px 5px 0px 0px;
+  display: flex;
+  align-items: center;
+  color: whitesmoke;
+}
+
+.Form {
+  padding: 35px 25px 25px 25px;
+}
+
+.Form-text {
+  position: relative;
+  text-indent: 25px;
+  height: 60px;
+  width: 100%;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(199, 199, 199);
+  background-color: rgb(214, 205, 223);
+}
+
+.Form-submit {
+  height: 60px;
+  margin-bottom: 15px;
+  position: relative;
+  background: linear-gradient(rgb(117, 83, 144), rgb(95, 69, 117));
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid rgb(199, 199, 199);
+  color: whitesmoke;
+}
