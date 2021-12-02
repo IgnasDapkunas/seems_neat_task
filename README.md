@@ -26,4 +26,3 @@ This task is meant to evaluate candidates frontend (HTML, CSS, JS, React) knowle
 - Using `create-react-app` is ok, but we prefer to see your own solution;
 - If you know `redux`, use it;
 - We love clean code with good structure!
-- If you have questions, drop a line at alex@seemsneat.com.
